@@ -168,4 +168,7 @@ Monkey总结（三）
 打开模拟器，顺利执行完毕。也可以用来做压力测试。
       
 
-
+Monkey源码分析之运行流程  https://blog.csdn.net/zhubaitian/article/details/40395327
+Android稳定性测试-- Monkey二次开发 https://blog.csdn.net/ToBeTheEnder/article/details/54693874
+Android Monkey源码解析  https://www.cnblogs.com/luceion/p/5494976.html
+monkey源码 https://github.com/aosp-mirror/platform_development/tree/master/cmds/monkey
